@@ -1,1 +1,76 @@
-/* Add CSS styling here */
+.header {
+    display: flex;
+    font-family: 
+  }
+  .shortBio{
+    font-family: Brush Script MT, cursive;
+    font-size: 20px;
+  }
+  img{
+    background: #FFFFF;
+    width: 525px;
+    height: 600px;
+    padding: 25px;
+  }  
+  .container1{
+    background: #FAB1AA;
+    width: 100vw;
+    hieght: 100vh;
+    padding: 15px;
+    text-align: center;
+    font-family: Arial, cursive;
+    justify-content: space-around;
+  }  
+  .navBar{
+    text-align: center;
+    font-family: copperplate, papyrus, fantasy;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .button1{
+    border:
+  }
+  .headerInfoTitle{
+    font-size: 35px;
+  }
+  .headerProjects{
+    font-size: 25px
+  }  
+  main1{
+    display: flex;
+    justify-content: space-around;
+  }  
+  .main1p1{
+    text-align: center;
+    font-family: copperplate, papyrus, fantasy;
+    font-size: 25px;
+  }
+  .main1p2{
+    text-align: center;
+    font-family: copperplate, papyrus, fantasy;
+    font-size: 25px;
+  }
+  .main1p3{
+    text-align: center;
+    font-family: copperplate, papyrus, fantasy;
+    font-size: 25px;
+  }
+  main2{
+    display: flex;
+    justify-content: space-around;
+  }
+  .main2p1{
+    text-align: center;
+    font-family: copperplate, papyrus, fantasy;
+    font-size: 25px;
+  }
+  .main2p2{
+    text-align: center;
+    font-family: copperplate, papyrus, fantasy;
+    font-size: 25px;
+  }
+  .main2p3{
+    text-align: center;
+    font-family: copperplate, papyrus, fantasy;
+    font-size: 25px;
